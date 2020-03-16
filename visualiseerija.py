@@ -1,11 +1,4 @@
-##!/usr/bin/env python3
-# vim: set fileencoding=utf8 :
-# Näiteprogramm protsessoriaja planeerijate visualiseerimiseks
-# algne autor Sten-Oliver Salumaa
-# refaktoreerinud ja muidu muutnud Meelis Roos
 # Jätkanud muudatustega Martin Toode (lisas algoritmid)
-# Code grabbed from a student - alk
-
 from tkinter import *
 import tkinter
 from tkinter import ttk
